@@ -1,14 +1,14 @@
 # Site settings
 title: Code Notes
-subtitle: [ Chi's Blog]
-keywords: iewihc
+subtitle: [ yihui's Blog]
+keywords: yihui
 description: 為學習用的私人程式筆記，參考許多網址/書籍以及整合自己的理解，如有侵權凡請告知。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iewihc.github.io/" # 你的域名
+url: "https://yihuihung.github.io/" # 你的域名
 page_no_title: "0 blog" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: iewihc
-email: iewihc@outlook.com
+author: yihui
+email: yihui11123@gmail.com
 
 # Build settings
 permalink: /:year/:month/:day/:title/
